@@ -7,10 +7,14 @@ Hi, I'm Dinko!
 ## My Projects
 * ![Wikipedia Search Engine](https://github.com/DImsirovic/wiki_search)
   * Project Description
+
+*Tools: Python, MapReduce, Flask*
   
   
-* ![Monte Carlo Simulations - March Madness Data]((https://github.com/DImsirovic/march_madness_monte_carlo))
+* ![Monte Carlo Simulations - March Madness](https://github.com/DImsirovic/march_madness_monte_carlo)
   * Project Description
+
+*Tools: R, dplyr, ggplot2*
 
 ## Coming Soon!
 These projects are currently underway and I'm very excited to share them upon completion 😄
