@@ -17,7 +17,7 @@ If you enjoy what you see here and would like to have a chat about my portfolio 
 * ![Monte Carlo Simulations - March Madness | R](https://github.com/DImsirovic/march_madness_monte_carlo)
   * Demonstrated difference in distribution of 3 point field goal percentage for seeded versus non-seeded teams in March Madness
   * Justified use of permutational t-test with power analysis through Monte Carlo Simulations
-  * Published ![Medium article](https://github.com/DImsirovic) demonstrating effective and clear communication of advanced statistical concepts
+  * Published ![Medium article](https://medium.com/@Dinko-Imsirovic/march-madness-a-case-study-in-monte-carlo-simulation-b6ee9cce52e1) demonstrating effective and clear communication of advanced statistical concepts
 
 *Tools: dplyr, ggplot2*
 
