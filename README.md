@@ -1,15 +1,26 @@
 # About Me
 
-- 👋 Hi, I’m @DImsirovic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Dinko!
+
+[Let's connect on LinkedIn!](https://www.linkedin.com/in/dinko-imsirovic/)
 
 ## My Projects
+* ![Wikipedia Search Engine](https://github.com/DImsirovic/wiki_search)
+  * Project Description
+  
+  
+* ![Monte Carlo Simulations - March Madness Data]((https://github.com/DImsirovic/march_madness_monte_carlo))
+  * Project Description
 
 ## Coming Soon!
-<!---
-DImsirovic/DImsirovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+These projects are currently underway and I'm very excited to share them upon completion 😄
+* Spotify Popularity Prediction
+	* Goal: Predict how popular a song will become on Spotify given characteristics such as danceability, energy, key, etc.
+
+*Tools: Python, pandas, seaborn, scikit-learn*
+
+* March Madness Classification
+	* Goal: Predict if a college basketball team will qualify for March Madness given their performance in the regular season
+
+*Tools: R, dplyr, ggplot2*
+  
