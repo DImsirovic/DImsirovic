@@ -2,7 +2,6 @@
 
 Hi, I'm Dinko!
 
-I'm a recent graduate from the University of Michigan with a degree in Data Science. I'm passionate about turning data into insight and working not just as an analyst, but as a technologist, organizer, and communicator dedicated to bringing together technology, business, and strategy.
 
 If you like what you see here and want to chat about my portfolio or work opportunities, let's connect [on LinkedIn 😄](https://www.linkedin.com/in/dinko-imsirovic/)
 
