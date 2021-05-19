@@ -4,7 +4,7 @@ Hi, I'm Dinko!
 
 I'm a recent graduate from the University of Michigan with a degree in Data Science. I'm passionate about turning data into insight and working not just as an analyst, but as a technologist, organizer, and communicator dedicated to bringing together technology, business, and strategy.
 
-If you enjoy what you see here and would like to have a chat about my portfolio or work opportunities, let's connect [on LinkedIn 😄](https://www.linkedin.com/in/dinko-imsirovic/)
+If you like what you see here and want to chat about my portfolio or work opportunities, let's connect [on LinkedIn 😄](https://www.linkedin.com/in/dinko-imsirovic/)
 
 ## My Projects
 * ![Wikipedia Search Engine | Python](https://github.com/DImsirovic/wiki_search)
@@ -17,7 +17,7 @@ If you enjoy what you see here and would like to have a chat about my portfolio 
 * ![Monte Carlo Simulations - March Madness | R](https://github.com/DImsirovic/march_madness_monte_carlo)
   * Demonstrated difference in distribution of 3 point field goal percentage for seeded versus non-seeded teams in March Madness
   * Justified use of permutational t-test with power analysis through Monte Carlo Simulations
-  * Published ![Medium article](https://medium.com/@Dinko-Imsirovic/march-madness-a-case-study-in-monte-carlo-simulation-b6ee9cce52e1) demonstrating effective and clear communication of advanced statistical concepts
+  * Published [Medium article](https://medium.com/@Dinko-Imsirovic/march-madness-a-case-study-in-monte-carlo-simulation-b6ee9cce52e1) demonstrating effective and clear communication of advanced statistical concepts
 
 *Tools: dplyr, ggplot2*
 
