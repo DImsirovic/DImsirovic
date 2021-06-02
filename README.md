@@ -25,10 +25,11 @@ These machine learning projects are currently underway and I'm very excited to s
 * Spotify Popularity Prediction | Python
 	* Goal: Predict how popular a song will become on Spotify given characteristics such as danceability, energy, key, etc.
 
-*Tools: Pandas, Seaborn, Scikit-learn*
+*Tools: Pandas, Scikit-learn*
 
-* March Madness Classification | R
-	* Goal: Predict if a college basketball team will qualify for March Madness given their performance in the regular season
+* College Football Game Prediction | Python, SQL, Streamlit
+	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production
+	* Goal: Deploy model to Streamlit, allowing users to select any 2 teams from the CFP era (2015-present) to predict winner of hypothetical matchup
 
-*Tools: dplyr, ggplot2*
+*Tools: API Access, Pandas, Scikit-Learn*
 
