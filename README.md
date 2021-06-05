@@ -21,7 +21,7 @@ If you like what you see here and want to chat about my portfolio or work opport
 *Tools: dplyr, ggplot2*
 
 ## Under Construction
-* [College Football Game Prediction | Python, SQL](https://github.com/DImsirovic/cfb_prediction)
+* [College Football Game Prediction | Python, SQL](https://github.com/DImsirovic/cfb_game_prediction)
 	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production
 	* Goal: Deploy model to Streamlit, allowing users to select any 2 teams from the CFP era (2015-present) to predict winner of hypothetical matchup
 
