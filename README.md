@@ -20,6 +20,13 @@ If you like what you see here and want to chat about my portfolio or work opport
 
 *Tools: dplyr, ggplot2*
 
+## Under Construction
+* [College Football Game Prediction | Python, SQL](https://github.com/DImsirovic/cfb_prediction)
+	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production
+	* Goal: Deploy model to Streamlit, allowing users to select any 2 teams from the CFP era (2015-present) to predict winner of hypothetical matchup
+
+*Tools: Web Scraping, Pandas, Scikit-Learn*
+
 ## Coming Soon!
 These machine learning projects are currently underway and I'm very excited to share them upon completion
 * Spotify Popularity Prediction | Python
@@ -27,9 +34,4 @@ These machine learning projects are currently underway and I'm very excited to s
 
 *Tools: Pandas, Scikit-learn*
 
-* College Football Game Prediction | Python, SQL, Streamlit
-	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production
-	* Goal: Deploy model to Streamlit, allowing users to select any 2 teams from the CFP era (2015-present) to predict winner of hypothetical matchup
-
-*Tools: API Access, Pandas, Scikit-Learn*
 
