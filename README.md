@@ -25,13 +25,17 @@ If you like what you see here and want to chat about my portfolio or work opport
 	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production
 	* Goal: Deploy model to Streamlit, allowing users to select any 2 teams from the CFP era (2015-present) to predict winner of hypothetical matchup
 
-*Tools: Web Scraping, Pandas, Scikit-Learn*
+*Tools: Web Scraping, Pandas, Scikit-Learn, Streamlit*
 
 ## Coming Soon!
 These machine learning projects are currently underway and I'm very excited to share them upon completion
-* Spotify Popularity Prediction | Python
+* Customer Churn | R
+	* Goal: Predict if a bank customer will turnover on their credit card services given card type; marriage, income, and education status, etc.
+
+*Tools: dplyr, ggplot2, tidymodels*
+
+* Spotify Popularity | Python
 	* Goal: Predict how popular a song will become on Spotify given characteristics such as danceability, energy, key, etc.
 
 *Tools: Pandas, Scikit-learn*
-
 
