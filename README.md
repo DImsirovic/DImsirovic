@@ -6,7 +6,7 @@ Hi, I'm Dinko!
 If you like what you see here and want to chat about my portfolio or work opportunities, let's connect [on LinkedIn 😄](https://www.linkedin.com/in/dinko-imsirovic/)
 
 ## My Projects
-* ![Wikipedia Search Engine | Python](https://github.com/DImsirovic/wiki_search)
+* ![Wikipedia Search Engine | Python, HTML](https://github.com/DImsirovic/wiki_search)
   * Implemented an end-to-end scalable search engine for Wikipedia articles with MapReduce
   * Developed a RESTful API to rank results of user queries with PageRank and tf-idf analysis
   * Created a user interface with tunable weights
