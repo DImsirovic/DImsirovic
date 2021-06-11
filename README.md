@@ -28,7 +28,7 @@ If you like what you see here and want to chat about my portfolio or work opport
 *Tools: Web Scraping, Pandas, Scikit-Learn, Streamlit*
 
 ## Coming Soon!
-These machine learning projects are currently underway and I'm very excited to share them upon completion
+These machine learning projects are on the docket and I'm very excited to share them upon completion
 * Customer Churn | R
 	* Goal: Predict if a bank customer will turnover on their credit card services given card type; marriage, income, and education status, etc.
 
