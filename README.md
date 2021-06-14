@@ -3,7 +3,7 @@
 Hi, I'm Dinko!
 
 
-If you like what you see here and want to chat about my portfolio or work opportunities, let's connect [on LinkedIn 😄](https://www.linkedin.com/in/dinko-imsirovic/)
+If you like what you see here and want to chat, let's connect [on LinkedIn 😄](https://www.linkedin.com/in/dinko-imsirovic/)
 
 ## My Projects
 * ![Wikipedia Search Engine | Python, HTML](https://github.com/DImsirovic/wiki_search)
