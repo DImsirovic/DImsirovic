@@ -22,7 +22,8 @@ If you like what you see here and want to chat, let's connect [on LinkedIn 😄]
 
 ## In Progress
 * [College Football Game Prediction | Python, SQL](https://github.com/DImsirovic/cfb_game_prediction)
-	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production
+	* Goal: Collect data manually from the API at [collegefootballdata.com](https://www.collegefootballdata.com/) :heavy_check_mark:
+	* Goal: Predict winner of a college football game given season average statistics, talent, and returning production :heavy_check_mark:
 	* Goal: Deploy model to Streamlit, allowing users to select any 2 teams from the CFP era (2015-present) to predict winner of hypothetical matchup
 
 *Tools: Web Scraping, Pandas, Scikit-Learn, Streamlit*
